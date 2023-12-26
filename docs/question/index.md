@@ -111,3 +111,4 @@ if (window.__POWERED_BY_WUJIE__) {
 ## 12、vite4 子应用样式切换丢失
 
 具体原因和解决办法详见[issue](https://github.com/Tencent/wujie/issues/434#issuecomment-1614089196)
+## 13、vue3引入在对应位置没有成功添加子应用
